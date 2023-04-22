@@ -7,11 +7,6 @@ The aim of the project is to develop optimal classifiers to predict the position
 
 The motivation for the project is to develop big data analysis tool for smart cities and help people guide indoors using machine learning approach.
 
-### Bild Status
-
-![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)
-
-![CocoaPods](https://img.shields.io/cocoapods/dw/AFNetworking.svg)
 
 ### Tech/Framework used
 The project was done using python GUI [Anaconda](https://anaconda.org/anaconda/python "Anaconda").
@@ -21,7 +16,8 @@ The project was done using python GUI [Anaconda](https://anaconda.org/anaconda/p
 - Decision Tree
 - Random Forest
 - K-fold CV
-- GridSearchCV
+- Feature selection and Grid Search
+- Cross Validation
 - Pipeline
 - PCA
 - SelectKbest
